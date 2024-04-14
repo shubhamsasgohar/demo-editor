@@ -16,7 +16,7 @@ const LayerStack = ({className}: PreviewProps) => {
     const [color, setColor] = useState('#66C0D1'); // Default color
 
     useEffect(() => {
-        fetch(`http://localhost:3000/images/${editTextComponent.style}`)
+        fetch(`/images/${editTextComponent.style}`)
             .then(response => response.text())
             .then(data => {
                 const parser = new DOMParser();

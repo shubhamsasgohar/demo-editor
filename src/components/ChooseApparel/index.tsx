@@ -41,7 +41,7 @@ const ChooseApparel = () => {
                     >
                         <ApparelImage
                             preview={false}
-                            src={'http://localhost:3000/images/Style0/Style0-Jersey.jpg'}
+                            src={'/images/Style0/Style0-Jersey.jpg'}
                         />
                         {apparelType == 'JERSEY'
                             ?
@@ -63,7 +63,7 @@ const ChooseApparel = () => {
                         >
                             <ApparelImage
                                 preview={false}
-                                src={'http://localhost:3000/images/Style0/Style0-Uniform.jpg'}
+                                src={'/images/Style0/Style0-Uniform.jpg'}
                             />
                             {apparelType == 'Uniform'
                                 ?
