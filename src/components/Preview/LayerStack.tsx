@@ -16,7 +16,7 @@ const LayerStack = ({className}: PreviewProps) => {
     const [color, setColor] = useState('#66C0D1'); // Default color
 
     useEffect(() => {
-        fetch(`/images/${editTextComponent.style}`)
+        fetch(`https://demo-editor-2cs5t6y9x-shubhams-projects-4d2fa22f.vercel.app/images/${editTextComponent.style}`)
             .then(response => response.text())
             .then(data => {
                 const parser = new DOMParser();
