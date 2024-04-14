@@ -41,7 +41,7 @@ const ChooseApparel = () => {
                     >
                         <ApparelImage
                             preview={false}
-                            src={'/images/Style0/Style0-Jersey.jpg'}
+                            src={'https://demo-editor-2cs5t6y9x-shubhams-projects-4d2fa22f.vercel.app/images/Style0/Style0-Jersey.jpg'}
                         />
                         {apparelType == 'JERSEY'
                             ?
@@ -63,7 +63,7 @@ const ChooseApparel = () => {
                         >
                             <ApparelImage
                                 preview={false}
-                                src={'/images/Style0/Style0-Uniform.jpg'}
+                                src={'https://demo-editor-2cs5t6y9x-shubhams-projects-4d2fa22f.vercel.app/images/Style0/Style0-Uniform.jpg'}
                             />
                             {apparelType == 'Uniform'
                                 ?

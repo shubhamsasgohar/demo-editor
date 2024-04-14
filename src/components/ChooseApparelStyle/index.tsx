@@ -132,7 +132,7 @@ const ChooseApparelStyle = () => {
                                 <CardStyle
                                     className=""
                                     onClick={() => onSelectTemplate(template)}
-                                    image={"/images/"+template.imageName}
+                                    image={"https://demo-editor-2cs5t6y9x-shubhams-projects-4d2fa22f.vercel.app/images/"+template.imageName}
                                     // image={"https://img.sportsgearswag.com/fit-in/350x350/product/"+template.imageName}
                                     clicked={activeCard == template.id}
                                     title={template.skuNumber}
