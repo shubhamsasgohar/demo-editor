@@ -1,0 +1,75 @@
+
+@font-face {
+    font-display: swap;
+    font-family: 'akmyprince';
+    src: url('../public/fonts/AKMyPrince/AKMyPrince.eot?#iefix') format('embedded-opentype'),
+    url('../public/fonts/AKMyPrince/AKMyPrince.woff') format('woff'),
+    url('../public/fonts/AKMyPrince/AKMyPrince.ttf') format('truetype'),
+    url('../public/fonts/AKMyPrince/AKMyPrince.svg#AKMyPrince') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'akzidenz-grotesk_bqregular';
+    src: url('../public/fonts/Akziden/AkzidenzGrotExtBQ-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../public/fonts/Akziden/AkzidenzGrotExtBQ-Regular.woff') format('woff'),
+    url('../public/fonts/Akziden/AkzidenzGrotExtBQ-Regular.ttf') format('truetype'),
+    url('../public/fonts/Akziden/AkzidenzGrotExtBQ-Regular.svg#AkzidenzGrotExtBQ-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-display: swap;
+    font-family: 'Collegium';
+    src: url('../public/fonts/Collegium/Collegium.eot');
+    src: url('../public/fonts/Collegium/Collegium.eot?#iefix') format('embedded-opentype'),
+    url('../public/fonts/Collegium/Collegium.woff2') format('woff2'),
+    url('../public/fonts/Collegium/Collegium.woff') format('woff'),
+    url('../public/fonts/Collegium/Collegium.ttf') format('truetype'),
+    url('../public/fonts/Collegium/Collegium.svg#Collegium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'inspiration';
+    src: url('../public/fonts/Inspiration/Inspiration-Regular.eot');
+    src: url('../public/fonts/Inspiration/Inspiration-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../public/fonts/Inspiration/Inspiration-Regular.woff2') format('woff2'),
+    url('../public/fonts/Inspiration/Inspiration-Regular.woff') format('woff'),
+    url('../public/fonts/Inspiration/Inspiration-Regular.ttf') format('truetype'),
+    url('../public/fonts/Inspiration/Inspiration-Regular.svg#Inspiration-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'justanotherhand';
+    src: url('../public/fonts/Just_Another_Hand/JustAnotherHand-Regular.eot');
+    src: url('../public/fonts/Just_Another_Hand/JustAnotherHand-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../public/fonts/Just_Another_Hand/JustAnotherHand-Regular.woff2') format('woff2'),
+    url('../public/fonts/Just_Another_Hand/JustAnotherHand-Regular.woff') format('woff'),
+    url('../public/fonts/Just_Another_Hand/JustAnotherHand-Regular.ttf') format('truetype'),
+    url('../public/fonts/Just_Another_Hand/JustAnotherHand-Regular.svg#JustAnotherHand-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'NCAABaylorBearsFootball';
+    src: url('../public/fonts/NCAABaylorBearsFootball/NCAABaylorBearsFootball.eot');
+    src: url('../public/fonts/NCAABaylorBearsFootball/NCAABaylorBearsFootball.eot?#iefix') format('embedded-opentype'),
+    url('../public/fonts/NCAABaylorBearsFootball/NCAABaylorBearsFootball.woff2') format('woff2'),
+    url('../public/fonts/NCAABaylorBearsFootball/NCAABaylorBearsFootball.woff') format('woff'),
+    url('../public/fonts/NCAABaylorBearsFootball/NCAABaylorBearsFootball.ttf') format('truetype'),
+    url('../public/fonts/NCAABaylorBearsFootball/NCAABaylorBearsFootball.svg#NCAABaylorBearsFootball') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
